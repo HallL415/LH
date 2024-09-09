@@ -1,16 +1,15 @@
-title: Luke Hall  # Your name as the website title
-theme: jekyll-theme-cayman
+title: Luke Hall
+theme: minimal-mistakes-jekyll
 
-# Specify pages to appear in the header
-header_pages:
-  - Home
-  - About
-
-# Custom navigation links
+# Site navigation links (GitHub, LinkedIn, Email)
 navigation:
-  - name: "GitHub"
-    link: "https://github.com/HallL415/Optimisation"
-  - name: "LinkedIn"
-    link: "https://www.linkedin.com/in/your-linkedin-profile"
-  - name: "Email"
-    link: "Luke.Hall415@gmail.com"
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "GitHub"
+    url: "https://github.com/HallL415/Optimisation"
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/your-linkedin-profile"
+  - title: "Email"
+    url: "mailto:your-email@example.com"
