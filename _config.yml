@@ -1,15 +1,16 @@
 title: Luke Hall
-theme: minimal-mistakes-jekyll
+theme: just-the-docs
 
-# Site navigation links (GitHub, LinkedIn, Email)
-navigation:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "GitHub"
+# Navigation links
+nav_order: 
+  - Home
+  - About
+
+# External links (GitHub, LinkedIn, Email)
+external_links:
+  - name: "GitHub"
     url: "https://github.com/HallL415/Optimisation"
-  - title: "LinkedIn"
+  - name: "LinkedIn"
     url: "https://www.linkedin.com/in/your-linkedin-profile"
-  - title: "Email"
+  - name: "Email"
     url: "mailto:your-email@example.com"
