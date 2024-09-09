@@ -1,2 +1,5 @@
 title: Luke Hall 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+navigation:
+  - name: "GitHub"
+    link: "https://github.com/HallL415/Optimisation"
