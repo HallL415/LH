@@ -1,5 +1,16 @@
-title: Luke Hall 
+title: Luke Hall  # Your name as the website title
 theme: jekyll-theme-cayman
+
+# Specify pages to appear in the header
+header_pages:
+  - Home
+  - About
+
+# Custom navigation links
 navigation:
   - name: "GitHub"
     link: "https://github.com/HallL415/Optimisation"
+  - name: "LinkedIn"
+    link: "https://www.linkedin.com/in/your-linkedin-profile"
+  - name: "Email"
+    link: "Luke.Hall415@gmail.com"
