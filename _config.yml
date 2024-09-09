@@ -1,16 +1,14 @@
 title: Luke Hall
-theme: just-the-docs
+theme: jekyll-theme-dinky
 
-# Navigation links
-nav_order: 
+# Custom navigation links
+header_pages:
   - Home
   - About
-
-# External links (GitHub, LinkedIn, Email)
-external_links:
+navigation:
   - name: "GitHub"
-    url: "https://github.com/HallL415/Optimisation"
+    link: "https://github.com/HallL415/Optimisation"
   - name: "LinkedIn"
-    url: "https://www.linkedin.com/in/your-linkedin-profile"
+    link: "https://www.linkedin.com/in/your-linkedin-profile"
   - name: "Email"
-    url: "mailto:your-email@example.com"
+    link: "mailto:your-email@example.com"
