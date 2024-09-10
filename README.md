@@ -8,6 +8,6 @@ My projects make use of a recently developed path-integral based approach, Trott
 [The repository of an optimisation scheme to solve for the dynamics of all these systems can be found here](https://github.com/HallL415/Optimisation)
 
 ### Publications
-1. [qubit-qubit systems](Awaiting review)
-2. [qubit-qubit-cavity systems, including direct coupling or cavity-mediated coupling](Awaiting review)
-3. [An optimisation to the memory intensive tensor multiplication scheme employed in current literature from our group, centered on singular value decomposition (SVD)](Awaiting review)
+1. [qubit-qubit systems] Awaiting review!
+2. [qubit-qubit-cavity systems, including direct coupling or cavity-mediated coupling] Awaiting review!
+3. [An optimisation to the memory intensive tensor multiplication scheme employed in current literature from our group, centered on singular value decomposition (SVD)] Awaiting review!
