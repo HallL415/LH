@@ -2,13 +2,3 @@ title: Luke Hall
 remote_theme: HallL415/dinky
 
 # Custom navigation links
-header_pages:
-  - Home
-  - About
-navigation:
-  - name: "GitHub"
-    link: "https://github.com/HallL415/Optimisation"
-  - name: "LinkedIn"
-    link: "https://www.linkedin.com/in/your-linkedin-profile"
-  - name: "Email"
-    link: "mailto:your-email@example.com"
