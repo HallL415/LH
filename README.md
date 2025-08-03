@@ -17,7 +17,7 @@ Due to the large tensor networks required to achieve convergence in some systems
 [The repository of the optimisation scheme to solve for the dynamics of all these systems can be found here](https://github.com/HallL415/Optimisation)
 
 ### Publications
-1. [Reducing, including entirely suppressing, the decoherence of coupled QDs](https://arxiv.org/abs/2405.14685) Accepted in Physical Review B [{DOI:10.1103/ltk8-fpv3][https://journals.aps.org/prb/accepted/10.1103/ltk8-fpv3]
-2. [An optimisation to the memory intensive tensor multiplication scheme employed in current literature from our group, centered on singular value decomposition (SVD)] Submitted to the Journal of Chemical Physics.
+1. [Reducing, including entirely suppressing, the decoherence of coupled QDs](https://journals.aps.org/prb/accepted/10.1103/ltk8-fpv3) Accepted in Physical Review B [DOI:10.1103/ltk8-fpv3]
+2. [An optimisation to the memory intensive tensor multiplication scheme employed in current literature from our group, centered on singular value decomposition (SVD)](https://arxiv.org/abs/2502.15136) Submitted to the Journal of Chemical Physics.
 3. [Multiple coupled QDs coupled to a cavity, with direct and indirect coupling] In preparation 
 4. [Foerster coupled QDs] Submitting soon!
